@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Simplyrets API sample
+
+[sample](https://api.simplyrets.com/properties)
+
+username: "simplyrets"
+password: "simplyrets"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
