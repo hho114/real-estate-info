@@ -7,6 +7,7 @@ A new Flutter project.
 [sample](https://api.simplyrets.com/properties)
 
 username: "simplyrets"
+
 password: "simplyrets"
 
 ## Getting Started
